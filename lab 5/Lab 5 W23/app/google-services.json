@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "530952729657",
+    "project_id": "lab5w23",
+    "storage_bucket": "lab5w23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530952729657:android:a20e63c1abfa6d666889e8",
+        "android_client_info": {
+          "package_name": "com.example.simpleparadox.listycity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530952729657-a89gvq5ttqcuim699bcbg2hohjvebt76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwnIUX7lSEc4j_ybWRHkFb8FtgJ-7ay-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530952729657-a89gvq5ttqcuim699bcbg2hohjvebt76.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
